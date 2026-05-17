@@ -65,7 +65,17 @@ The pipeline outputs publication-quality figures across several dimensions:
 
 ## 📊 Sample Visualizations
 
-*(Note: Add your exported images to `docs/figures/` and uncomment these links)*
+<p align="center">
+  <img src="./docs/figures/Average_N8_LG_EMG_Contours.png" alt="Average LG EMG Contours across 8 Subjects" width="800"/>
+</p>
+
+* _Contour plot of the averaged EMG activations across 8 subjects for level-ground walking._
+
+<p align="center">
+  <img src="./docs/figures/Scatter_LG.png" alt="Scatter Plot of Optimal and Worst Assistance Conditions" width="800"/>
+</p>
+
+* _Scatter plot visualization of observed and theoretical optimal and worst assitance conditions across 8 subjects for level-ground walking._
 
 ---
 
