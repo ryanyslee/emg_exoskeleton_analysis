@@ -90,5 +90,5 @@ python src/visualization/emg_contour_averages.py
 
 ## 📁 Repository Structure
 * `src/`: Source code for processing and visualization.
-* `docs/`: Project presentation slides, exported figures, and detailed methodology.
+* `docs/`: Project presentation slides and exported figures.
 * `data/`: _(Gitignored)_ Expected location for local raw and processed datasets.
