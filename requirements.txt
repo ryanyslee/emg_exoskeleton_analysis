@@ -1,0 +1,10 @@
+# Data manipulation and array operations
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Signal processing (Butterworth filters) and Math (Rbf interpolation)
+scipy>=1.10.0
+
+# Visualization and Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
